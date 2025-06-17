@@ -1,4 +1,4 @@
-3556
+3589
 48C:\Users\Happiness\Desktop\deky-media\about.html133946381819644461 0
 71C:\Users\Happiness\Desktop\deky-media\node_modules\color-name\README.md133946361853397441 0
 73C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\plugin\LICENSE133946361899760150 0
@@ -40,7 +40,7 @@
 60C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\core133946361882373648 1
 65C:\Users\Happiness\Desktop\deky-media\public\images\our-value.png133943928351081054 0
 98C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\esm\_class_private_field_update.js133946361929219576 0
-42C:\Users\Happiness\Desktop\deky-media\dist133946383618668441 1
+42C:\Users\Happiness\Desktop\deky-media\dist133946401636661273 1
 82C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\regions\SR.js133946362057766369 0
 75C:\Users\Happiness\Desktop\deky-media\node_modules\node-addon-api\nothing.c133946361859911207 0
 102C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs133946362031130315 0
@@ -162,7 +162,7 @@
 84C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\workers\lib\WorkerFarm.js133946361914188247 0
 82C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\regions\LK.js133946362047945043 0
 64C:\Users\Happiness\Desktop\deky-media\public\images\our-goal.png133943922950080241 0
-51C:\Users\Happiness\Desktop\deky-media\dist\FAQ.html133946383618466730 0
+51C:\Users\Happiness\Desktop\deky-media\dist\FAQ.html133946401636110239 0
 79C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\esm\_type_of.js133946361939852526 0
 56C:\Users\Happiness\Desktop\deky-media\node_modules\chalk133946361927579095 1
 81C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\workers\src\backend.js133946361883358242 0
@@ -172,7 +172,7 @@
 91C:\Users\Happiness\Desktop\deky-media\node_modules\@mischnic\json-sourcemap\dist\index.d.ts133946361904264244 0
 103C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist133946362044616155 1
 65C:\Users\Happiness\Desktop\deky-media\public\images\our-media.png133943930380205717 0
-55C:\Users\Happiness\Desktop\deky-media\dist\service.html133946383618461697 0
+55C:\Users\Happiness\Desktop\deky-media\dist\service.html133946401636110239 0
 80C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\optimizer-svg\LICENSE133946361922889962 0
 73C:\Users\Happiness\Desktop\deky-media\node_modules\escalade\sync\index.js133946361848878021 0
 60C:\Users\Happiness\Desktop\deky-media\node_modules\is-number133946361861711944 1
@@ -194,6 +194,7 @@
 66C:\Users\Happiness\Desktop\deky-media\public\images\our-target.png133943927449604726 0
 74C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\package-manager133946361945570681 1
 74C:\Users\Happiness\Desktop\deky-media\node_modules\picocolors\package.json133946361848878021 0
+65C:\Users\Happiness\Desktop\deky-media\dist\our-coach.37853da0.png133946392571005345 0
 94C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\core\lib\TargetDescriptor.schema.js133946362033792543 0
 68C:\Users\Happiness\Desktop\deky-media\public\images\our-training.png133943919802579747 0
 80C:\Users\Happiness\Desktop\deky-media\node_modules\ordered-binary\dist\index.cjs133946361861220443 0
@@ -206,7 +207,7 @@
 73C:\Users\Happiness\Desktop\deky-media\node_modules\msgpackr\dist\index.js133946361889748135 0
 66C:\Users\Happiness\Desktop\deky-media\public\images\our-vision.png133943927798383185 0
 64C:\Users\Happiness\Desktop\deky-media\public\images\our-ways.png133943929293033595 0
-57C:\Users\Happiness\Desktop\deky-media\public\css\main.css133945711375226496 0
+57C:\Users\Happiness\Desktop\deky-media\public\css\main.css133946392561283280 0
 75C:\Users\Happiness\Desktop\deky-media\node_modules\semver\ranges\outside.js133946361893376710 0
 77C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\optimizer-html\src133946361925000693 1
 62C:\Users\Happiness\Desktop\deky-media\node_modules\ansi-styles133946361959005332 1
@@ -311,6 +312,7 @@
 97C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\mutationobserver.js133946362051954457 0
 97C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\error-overlay\src\components\Header.js133946361879707946 0
 59C:\Users\Happiness\Desktop\deky-media\node_modules\msgpackr133946361918852345 1
+68C:\Users\Happiness\Desktop\deky-media\dist\our-platform.e1cbcc8b.png133946392570849104 0
 89C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\watcher-win32-x64\watcher.node133946361886580098 0
 100C:\Users\Happiness\Desktop\deky-media\node_modules\ordered-binary\.nyc_output\processinfo\index.json133946361875210631 0
 88C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\portals.js133946362054621285 0
@@ -364,6 +366,7 @@
 70C:\Users\Happiness\Desktop\deky-media\node_modules\commander\Readme.md133946361927166918 0
 70C:\Users\Happiness\Desktop\deky-media\node_modules\regenerator-runtime133946361873035455 1
 82C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\regions\BM.js133946361918530126 0
+64C:\Users\Happiness\Desktop\deky-media\dist\about.cad4fa1f.js.map133946392574277968 0
 80C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\cjs\_extends.cjs133946361906206681 0
 62C:\Users\Happiness\Desktop\deky-media\node_modules\safe-buffer133946361870397235 1
 75C:\Users\Happiness\Desktop\deky-media\node_modules\ordered-binary\README.md133946361877043656 0
@@ -447,6 +450,7 @@
 80C:\Users\Happiness\Desktop\deky-media\node_modules\lightningcss\node\ast.js.flow133946361878707981 0
 72C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\rust\index.js133946361905679041 0
 104C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\document-evaluate-xpath.js133946361987798941 0
+60C:\Users\Happiness\Desktop\deky-media\dist\about.cad4fa1f.js133946392573632139 0
 82C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\regions\IL.js133946362035852171 0
 69C:\Users\Happiness\Desktop\deky-media\node_modules\utility-types\dist133946361885459694 1
 101C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\reporter-dev-server\src\templates\500.html133946361935677026 0
@@ -767,6 +771,7 @@
 104C:\Users\Happiness\Desktop\deky-media\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133946361921017691 0
 76C:\Users\Happiness\Desktop\deky-media\node_modules\supports-color\browser.js133946361858559025 0
 73C:\Users\Happiness\Desktop\deky-media\node_modules\supports-color\license133946361857388671 0
+65C:\Users\Happiness\Desktop\deky-media\dist\deky-media.425655e8.js133946392573632139 0
 85C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\utils\src\shared-buffer.js133946361987643551 0
 82C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\regions\IE.js133946362034793716 0
 78C:\Users\Happiness\Desktop\deky-media\node_modules\semver\internal\lrucache.js133946361890736999 0
@@ -874,6 +879,7 @@
 74C:\Users\Happiness\Desktop\deky-media\node_modules\semver\classes\index.js133946361889235718 0
 137C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133946361996486386 0
 71C:\Users\Happiness\Desktop\deky-media\node_modules\semver\bin\semver.js133946361907538206 0
+70C:\Users\Happiness\Desktop\deky-media\dist\deky-media.a14126dd.css.map133946401636661273 0
 75C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\_\_identity133946361986519291 1
 71C:\Users\Happiness\Desktop\deky-media\node_modules\msgpackr-extract\src133946361858056693 1
 99C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\esm\_is_native_reflect_construct.js133946361934628776 0
@@ -1341,6 +1347,7 @@
 102C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\getboundingclientrect.js133946362023622355 0
 85C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\esm\_object_spread.js133946361935989484 0
 95C:\Users\Happiness\Desktop\deky-media\node_modules\lmdb\dependencies\v8\v8-fast-api-calls-v16.h133946361933222597 0
+62C:\Users\Happiness\Desktop\deky-media\dist\service.3594006a.js133946392571005345 0
 91C:\Users\Happiness\Desktop\deky-media\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133946361933378838 0
 93C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\src\_class_name_tdz_error.mjs133946362029973291 0
 76C:\Users\Happiness\Desktop\deky-media\node_modules\lmdb\dependencies\lz4\lib133946361940075627 1
@@ -1683,7 +1690,7 @@
 66C:\Users\Happiness\Desktop\deky-media\node_modules\clone\clone.iml133946361906206681 0
 81C:\Users\Happiness\Desktop\deky-media\node_modules\chrome-trace-event\LICENSE.txt133946361873214464 0
 67C:\Users\Happiness\Desktop\deky-media\node_modules\chalk\index.d.ts133946361928010081 0
-53C:\Users\Happiness\Desktop\deky-media\dist\about.html133946383618456360 0
+53C:\Users\Happiness\Desktop\deky-media\dist\about.html133946401636110239 0
 87C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\optimizer-image\package.json133946361923334963 0
 96C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\mutation-events.js133946362051759638 0
 74C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\fs\package.json133946361941157181 0
@@ -1871,6 +1878,7 @@
 82C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\regions\RS.js133946362055758682 0
 82C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\regions\RW.js133946362056113005 0
 82C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\regions\SA.js133946362056193048 0
+65C:\Users\Happiness\Desktop\deky-media\dist\our-skill.95ca268c.png133946392571005345 0
 76C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\utils\src\path.js133946361984965640 0
 82C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\regions\SB.js133946362056292775 0
 93C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\core\lib\requests\ConfigRequest.js133946361988350925 0
@@ -2035,6 +2043,7 @@
 95C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\css-first-line.js133946361937529847 0
 90C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\css-fixed.js133946361937665975 0
 96C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\css-reflections.js133946361946232752 0
+70C:\Users\Happiness\Desktop\deky-media\dist\our-difference.db248b81.png133946392571005345 0
 98C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\css-focus-visible.js133946361937847413 0
 97C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\css-font-palette.js133946361938027801 0
 106C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\_\_apply_decorated_descriptor\package.json133946361943675632 0
@@ -2106,6 +2115,7 @@
 85C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\optimizer-css\package.json133946361925000693 0
 89C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\css-sel3.js133946361949000278 0
 91C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\css-shapes.js133946361950000883 0
+66C:\Users\Happiness\Desktop\deky-media\dist\our-vision.496ae9f3.png133946392571005345 0
 92C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\css-subgrid.js133946361951667675 0
 83C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\fs\src\NodeFS.browser.js133946361939852526 0
 82C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\source-map\dist\node.js133946361904926087 0
@@ -2275,6 +2285,7 @@
 99C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\link-rel-prerender.js133946362047945043 0
 98C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\loading-lazy-attr.js133946362048118360 0
 85C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\src\_to_primitive.mjs133946362037438710 0
+69C:\Users\Happiness\Desktop\deky-media\dist\deky-media.3464ddca.js.map133946392574277968 0
 101C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js133946361922220801 0
 94C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\localecompare.js133946362048445514 0
 92C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\optimizer-swc\src\SwcOptimizer.js133946361920351393 0
@@ -2411,7 +2422,7 @@
 86C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\touch.js133946362061281313 0
 93C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\transforms3d.js133946362061432068 0
 81C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\_\_async_iterator133946361944848141 1
-55C:\Users\Happiness\Desktop\deky-media\dist\contact.html133946383618461697 0
+55C:\Users\Happiness\Desktop\deky-media\dist\contact.html133946401636110239 0
 84C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\ttf.js133946362061517734 0
 84C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\u2f.js133946362061613749 0
 99C:\Users\Happiness\Desktop\deky-media\node_modules\caniuse-lite\data\features\unhandledrejection.js133946362061613749 0
@@ -2552,6 +2563,7 @@
 83C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\_\_set_prototype_of133946361994975786 1
 84C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\packager-svg\package.json133946361913022309 0
 82C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\_\_sliced_to_array133946361997472325 1
+65C:\Users\Happiness\Desktop\deky-media\dist\deky-logo.e3530221.png133946392573632139 0
 88C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\_\_sliced_to_array_loose133946361997319445 1
 67C:\Users\Happiness\Desktop\deky-media\dist\our-connect.4039d59d.png133946383616813552 0
 72C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\_\_throw133946362000955394 1
@@ -2652,6 +2664,7 @@
 87C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\watcher\src\watchman\BSER.hh133946361890436036 0
 99C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\src\_object_destructuring_empty.mjs133946362035852171 0
 104C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\src\_object_without_properties_loose.mjs133946362036127238 0
+67C:\Users\Happiness\Desktop\deky-media\dist\our-connect.2d03c55e.png133946392570849104 0
 87C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\src\_overload_yield.mjs133946362036295637 0
 74C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\core\src\public133946362033792543 1
 88C:\Users\Happiness\Desktop\deky-media\node_modules\@swc\helpers\src\_read_only_error.mjs133946362036435235 0
@@ -2849,6 +2862,7 @@
 65C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\plugin133946361904264244 1
 67C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\profiler133946361911352632 1
 71C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\reporter-cli133946361943854298 1
+64C:\Users\Happiness\Desktop\deky-media\dist\our-plan.91deb76e.png133946392571005345 0
 78C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\reporter-dev-server133946361938350601 1
 74C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\reporter-tracer133946361933222597 1
 89C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\core\lib\public\BundleGroup.js133946361987349710 0
@@ -2981,6 +2995,7 @@
 101C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\core\test\fixtures\invalid-source-not-file133946362043946270 1
 81C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\utils\src\ansi-html.js133946361930456515 0
 82C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\utils\src\bundle-url.js133946361931035226 0
+69C:\Users\Happiness\Desktop\deky-media\dist\deky-media.425655e8.js.map133946392574100900 0
 116C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\index.js133946361939336559 0
 82C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\utils\src\collection.js133946361931347730 0
 78C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\utils\src\config.js133946361931816434 0
@@ -3352,6 +3367,7 @@
 78C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\events\lib\index.js133946361943255696 0
 85C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\events\lib\ValueEmitter.js133946361943755645 0
 85C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\error-overlay\package.json133946361892022002 0
+68C:\Users\Happiness\Desktop\deky-media\dist\our-training.3d2a5e6f.png133946392571005345 0
 96C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\core\src\public\MutableBundleGraph.js133946362002642947 0
 76C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\error-overlay\src133946361891020491 1
 87C:\Users\Happiness\Desktop\deky-media\node_modules\@parcel\error-overlay\src\components133946361887709063 1
@@ -3542,16 +3558,33 @@
 66C:\Users\Happiness\Desktop\deky-media\node_modules\.bin\parcel.ps1133946362085986202 0
 66C:\Users\Happiness\Desktop\deky-media\node_modules\.bin\semver.cmd133946362085986202 0
 66C:\Users\Happiness\Desktop\deky-media\node_modules\.bin\semver.ps1133946362085986202 0
+62C:\Users\Happiness\Desktop\deky-media\dist\contact.ebdd7f4b.js133946392571005345 0
+66C:\Users\Happiness\Desktop\deky-media\dist\contact.ebdd7f4b.js.map133946392572515025 0
 65C:\Users\Happiness\Desktop\deky-media\dist\deky-logo.a3f61075.png133946383615966129 0
+66C:\Users\Happiness\Desktop\deky-media\dist\deky-media.34630cd4.css133946392565600245 0
+70C:\Users\Happiness\Desktop\deky-media\dist\deky-media.34630cd4.css.map133946392565860795 0
+65C:\Users\Happiness\Desktop\deky-media\dist\deky-media.3464ddca.js133946392573632139 0
 66C:\Users\Happiness\Desktop\deky-media\dist\deky-media.7ecca790.css133946383618469574 0
 70C:\Users\Happiness\Desktop\deky-media\dist\deky-media.7ecca790.css.map133946383618648666 0
+66C:\Users\Happiness\Desktop\deky-media\dist\deky-media.a14126dd.css133946401636110239 0
 65C:\Users\Happiness\Desktop\deky-media\dist\deky-media.f87bf64b.js133946383618469574 0
-53C:\Users\Happiness\Desktop\deky-media\dist\index.html133946383618456360 0
+58C:\Users\Happiness\Desktop\deky-media\dist\FAQ.255ebf6b.js133946392573632139 0
+62C:\Users\Happiness\Desktop\deky-media\dist\FAQ.255ebf6b.js.map133946392574277968 0
+53C:\Users\Happiness\Desktop\deky-media\dist\index.html133946401636110239 0
+67C:\Users\Happiness\Desktop\deky-media\dist\our-analyze.37c19b1e.png133946392571005345 0
 65C:\Users\Happiness\Desktop\deky-media\dist\our-coach.8e6abf63.png133946383616813552 0
+69C:\Users\Happiness\Desktop\deky-media\dist\our-community.7ccea565.png133946392571005345 0
 69C:\Users\Happiness\Desktop\deky-media\dist\our-community.9d7aa88d.png133946383617053545 0
 70C:\Users\Happiness\Desktop\deky-media\dist\our-difference.31c33b45.png133946383616813552 0
+64C:\Users\Happiness\Desktop\deky-media\dist\our-goal.210a4431.png133946392573632139 0
+65C:\Users\Happiness\Desktop\deky-media\dist\our-media.c447f2e6.png133946392571005345 0
 68C:\Users\Happiness\Desktop\deky-media\dist\our-quanlity.859a8fc3.png133946383616813552 0
+68C:\Users\Happiness\Desktop\deky-media\dist\our-quanlity.f427560f.png133946392571005345 0
 65C:\Users\Happiness\Desktop\deky-media\dist\our-skill.d3c5d2f8.png133946383616813552 0
+69C:\Users\Happiness\Desktop\deky-media\dist\our-story-two.13e7f93d.png133946392571005345 0
 69C:\Users\Happiness\Desktop\deky-media\dist\our-story-two.8edf42fc.png133946383616813552 0
+66C:\Users\Happiness\Desktop\deky-media\dist\our-target.454c81b4.png133946392571005345 0
 68C:\Users\Happiness\Desktop\deky-media\dist\our-training.3cb3a5b4.png133946383616813552 0
+65C:\Users\Happiness\Desktop\deky-media\dist\our-value.a17e35cf.png133946392571005345 0
 66C:\Users\Happiness\Desktop\deky-media\dist\our-vision.4140e4d5.png133946383616973575 0
+66C:\Users\Happiness\Desktop\deky-media\dist\service.3594006a.js.map133946392572515025 0

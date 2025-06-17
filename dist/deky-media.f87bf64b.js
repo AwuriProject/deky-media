@@ -1,0 +1,2 @@
+let list=document.querySelector(".list"),hamburgerMenu=document.querySelector(".menu"),open=document.querySelector(".open"),close=document.querySelector(".close");hamburgerMenu.addEventListener("click",()=>{open.classList.toggle("hidden"),close.classList.toggle("show"),list.classList.toggle("active")}),document.querySelectorAll(".faq__question").forEach(e=>{e.addEventListener("click",()=>{e.nextElementSibling.classList.toggle("active")})});
+//# sourceMappingURL=deky-media.f87bf64b.js.map

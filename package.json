@@ -1,0 +1,23 @@
+{
+  "name": "deky-media",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwuriProject/deky-media.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AwuriProject/deky-media/issues"
+  },
+  "homepage": "https://github.com/AwuriProject/deky-media#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  }
+}

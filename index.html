@@ -15,7 +15,7 @@
       crossorigin="anonymous"
     ></script>
     <link rel="stylesheet" href="./public/css/main.css" />
-    <script defer src="./public/js/main.js"></script>
+    <script  defer src="./public/js/main.js"></script>
   </head>
   <body>
     <!-- Header Content -->
@@ -99,8 +99,8 @@
           <div class="line"></div>
         </div>
         <div class="main__text faq__text">
-          <h3>What services does DEKY MEDIA offer?</h3>
-          <p>
+          <h3 class="faq--title">What services does DEKY MEDIA offer?</h3>
+          <p class="faq--title">
             DEKY MEDIA offers customized training programs, soft skills
             training, digital skills training, human resources consulting, and
             coaching and mentoring services.
@@ -116,7 +116,7 @@
           <h2>Contact<br />Us</h2>
           <div class="line"></div>
         </div>
-        <form action="#" method="POST">
+        <form action="https://formsubmit.co/Dekymedia@gmail.com" method="POST">
           <div class="input__wrap">
             <div class="input__group">
               <label for="firstName">First name</label>
@@ -138,6 +138,8 @@
             </div>
           </div>
           <textarea name="message" id="message" rows="5"></textarea>
+          <input type="hidden" name="_subject" value="New Newsletter Subscriber!">
+          <input type="hidden" name="_captcha" value="false">
           <button type="submit" class="main__btn">Submit</button>
         </form>
       </section>
@@ -147,21 +149,24 @@
         <img src="./public/images/deky-logo.png" alt="Deky logo" />
       </div>
       <div class="social__media">
-        <div class="media">
-          <i class="fa-brands fa-facebook-f"></i>
-        </div>
-        <div class="media">
+        <a href="https://www.instagram.com/dekymedia?igsh=dXRsdGFiNzQwMmIz" class="media">
           <i class="fa-brands fa-instagram"></i>
-        </div>
-        <div class="media">
+        </a>
+        <a href="https://www.tiktok.com/@dekymedia?_t=ZM-8xHmhst5x3O&_r=1" class="media">
+          <i class="fa-brands fa-tiktok"></i>
+        </a>
+        <a href="https://x.com/DekyMedia?t=6LkSyvPA0QTFR9N-SaDvXg&s=09 " class="media">
           <i class="fa-brands fa-x-twitter"></i>
-        </div>
-        <div class="media">
+        </a>
+        <a href=" https://www.linkedin.com/company/dekymedia/" class="media">
           <i class="fa-brands fa-linkedin-in"></i>
-        </div>
-        <div class="media">
-          <i class="fa-brands fa-threads"></i>
-        </div>
+        </a>
+        <a href="https://youtube.com/@dekymedia?si=2zr0zYfkK7DSiGId" class="media">
+          <i class="fa-brands fa-youtube"></i>
+        </a>
+        <a href="" class="media">
+          <i class="fa-brands fa-whatsapp"></i>
+        </a>
       </div>
       <p>&copy; All Right Reserved. 2025</p>
     </section>

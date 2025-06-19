@@ -43,7 +43,7 @@ section {
 .main__header h2 {
   font-size: 2.4rem;
   color: var(--color-polish-brown);
-  margin-left: 38px;
+  /* margin-left: 38px; */
 }
 
 .line {
@@ -65,14 +65,17 @@ section {
 
 /* HEADER SECTION */
 .navbar {
-  background-color: var(--color-dark-brown);
+  background: linear-gradient(135deg, #ffffff 0%, #d6c3b3 30%, #9a6e0e 60%, #240c00 100%);
+
   padding: 0 1.6rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
 }
-
+/* .logo{
+  background-color: #fff;
+} */
 .logo img {
   width: 70px;
 }
@@ -172,7 +175,8 @@ section {
 
 /* Main Content Section */
 .hero {
-  background-color: var(--color-polish-brown);
+  /* background-color: var(--color-polish-brown); */
+  background-color: #fff;
   text-align: center;
   height: 16rem;
   background-image: url("/public/images/deky-logo.png");
@@ -199,6 +203,7 @@ section {
   display: flex;
   flex-direction: column;
   flex: 100%;
+  line-height: 2;
 }
 
 .main__text p {
@@ -214,6 +219,9 @@ section {
 .main__color h2 {
   color: #fff;
 }
+.main__text .faq--title{
+    text-align: left;
+  }
 
 .about__content {
   background-color: var(--color-burnt-browm);
@@ -245,12 +253,14 @@ section {
   height: 30px;
   border-radius: 50%;
   background-color: #fff;
+  color: #240c00;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .footer p {
+  font-size: 0.8rem;
   color: #fff;
   text-align: center;
   margin-top: 16px;
@@ -281,6 +291,9 @@ section {
   align-items: center;
   padding: 1.6rem;
   border-radius: 0.8rem;
+  gap: 1rem;
+  width: auto;
+  height: auto;
 }
 
 .main__about--card:hover {
@@ -308,20 +321,19 @@ section {
 
 .main__about--card h2 {
   font-size: 2.4rem;
-  margin-bottom: 16px;
   text-align: center;
 }
 
 .main__about--card p {
   line-height: 2;
-  text-align: center;
+  text-align: left;
   font-size: 1rem;
 }
 
 .main__about--card ul li {
   line-height: 2;
-  text-align: center;
   font-size: 16px;
+  list-style: disc;
 }
 
 /* Service Section */
@@ -361,23 +373,27 @@ section {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
 }
 .service__section .service__h2{
-  color: #9a6e0e;
-  font-size: 1rem;
+  color: #121212;
+  font-size: 2rem;
+  text-align: center;
 }
 
 .service__section p {
   color: #121212;
-  text-align: center;
+  text-align: left;
   font-size: 1rem;
 }
 
 .service__section ul {
   color: #121212;
-  text-align: center;
+  text-align: left;
   font-size: 1rem;
+  
+}
+.service__section ul li{
+  list-style: disc;
 }
 .service__section img{
   width: 100px;
@@ -409,7 +425,6 @@ section {
   width: 100%;
   padding: 1.4rem;
   background-color: #381f00;
-  /* margin-top: 1rem; */
   border-radius: 4px;
   display: flex;
   justify-content: space-between;
@@ -429,8 +444,7 @@ section {
   width: 100%;
   display: none;
   padding: 1.4rem;
-  background-color: #381f00;
-  border-top: 1px solid #fff;
+  background-color: var(--color-golden-yellow);
   border-radius: 4px;
   max-height: 10rem
 }
@@ -587,6 +601,9 @@ input {
     color: #121212;
   }
 
+  .main__text .faq--title{
+    color: #121212;
+  }
   .main__text {
     flex: 50%;
   }
@@ -628,7 +645,9 @@ input {
     font-size: 1.8rem;
     text-align: left;
   }
-
+.service__section .service__h2{
+  font-size: 2rem;
+}
   .service__section {
     display: flex;
     flex-direction: column;
